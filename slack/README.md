@@ -1,5 +1,4 @@
-**How to use CLSx Slack domain**
-
+# How to use CLSx Slack domain
 *(very few recommendation to make everyone happier ;) )*
 
 How CLSx Slack domain should be organised, to keep some sort of consistency across the different events and people involved? Here some recommendations to help. Recommendations, not rules ;)
